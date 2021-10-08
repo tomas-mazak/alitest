@@ -4,7 +4,7 @@ Zalozeni noveho projektu:
 2) Vytvorime z obycejneho adresare gitovy repozitar: prikaz git init
 3) Vytvoreni verze (commitu)
    - "stage files": git add
-   - "vytvoreni commitu": git commit
+   - "vytvoreni commitu": git commit -m "Popis verze"
    - "odeslani zmen na server": git push
 4) Vytvoreni "vzdaleneho repozitare" na GitHubu: https://github.com/new
 
@@ -12,4 +12,12 @@ Zalozeni noveho projektu:
 git remote add origin git@github.com:tomas-mazak/alitest.git
 git branch -M main
 git push -u origin main
+
+
+Kazda dalsi zmena:
+
+1) zmenit soubor
+2) git add soubor
+3) git commit -m "Popis zmeny"
+4) git push
 
