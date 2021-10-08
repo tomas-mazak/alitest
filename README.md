@@ -34,3 +34,9 @@ git push -u origin main
 2. V GitHubu: Pull Requests -> New Pull request -> Vybrat pozadovanou branch -> Create
 3. Po schvaleni pull requestu kliknout Merge
 4. Po uspesnem merge ve VSCode prepnout vetev na main a spustit: git pull
+
+## Zkouška kolaborace 
+1. musím naklonovat nový repozitař, který mi Tom poslal v gitHube
+2. Zelené tlačítko code - zkopírovat SHH odkaz a vložit do VSCode ... nahoře - clone a vložit zkopírovaný odkaz 
+3. Udělám změnu v dokumentu 
+4. Add/Commit/Push
