@@ -40,3 +40,4 @@ git push -u origin main
 2. Zelené tlačítko code - zkopírovat SHH odkaz a vložit do VSCode ... nahoře - clone a vložit zkopírovaný odkaz 
 3. Udělám změnu v dokumentu 
 4. Add/Commit/Push - dolní lišta kolečko vedle MAIN pro Push a PUll - tím se projeví změny u mě i na GitHubu
+5. Kolaborátor musí u sebe zadat Pull (nebo Push/Pull kolečko vedle main větvě v dolní liště)
