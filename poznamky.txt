@@ -21,3 +21,8 @@ Kazda dalsi zmena:
 3) git commit -m "Popis zmeny"
 4) git push
 
+Nova vetev:
+
+1) vytvoreni pres VSCode anebo: git checkout -b nazev_vetve
+2) zmeny ve vetvi klasicky git add/commit/push
+!! Prvni push kazde vetve musi vypadat nasledovne: git push -u origin
