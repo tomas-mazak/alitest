@@ -6,3 +6,10 @@ Zalozeni noveho projektu:
    - "stage files": git add
    - "vytvoreni commitu": git commit
    - "odeslani zmen na server": git push
+4) Vytvoreni "vzdaleneho repozitare" na GitHubu: https://github.com/new
+
+5) Spojeni "lokalniho a vzdaleneho repozitare":
+git remote add origin git@github.com:tomas-mazak/alitest.git
+git branch -M main
+git push -u origin main
+
